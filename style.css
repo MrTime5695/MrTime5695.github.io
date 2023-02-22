@@ -7,5 +7,6 @@ h1{
   font-family: monospace;
   font-size:40px;
   border-radius: 15px;
-  border-color: coral; 
+  border-color: coral;
+  content: url(https://i.giphy.com/media/h3rG0zpVLblCsvNbKu/giphy.webp);
 }
