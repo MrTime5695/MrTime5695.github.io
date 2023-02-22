@@ -1,7 +1,8 @@
-p{ color: pink; }
+p{ color: blue; }
 
 h1{
-  color: aquamarine;
+  color: blue
+  text-shadow: 2px 1px #000000;
   border-style: ridge;
   background-color: rgb(100, 112, 219);
   font-family: monospace;
