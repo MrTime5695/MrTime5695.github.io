@@ -14,6 +14,7 @@ p{
   color: purple;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+a{background-image: url("costume1.png");}
 a:hover{
   color: green;
 }
