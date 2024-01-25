@@ -15,7 +15,7 @@ p{
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 a{
-  background-image: url(costume1.png);
+  /*background-image: url(costume1.png);*/
   border-style: outset;
 }
 a:hover{
