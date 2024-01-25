@@ -20,11 +20,9 @@ a{
 }
 a:hover{
   color: green;
-  border-style: dotted;
-}
-a:active{
   border-style: inset;
 }
+
 /*
 body{
   background-image: url(https://web.archive.org/web/20020630231212id_/http://bzpower.com//images/2usa.jpg);
