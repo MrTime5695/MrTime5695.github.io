@@ -14,9 +14,16 @@ p{
   color: purple;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-a{background-image: url("costume1.png");}
+a{
+  background-image: url(costume1.png);
+  border-style: outset;
+}
 a:hover{
   color: green;
+  border-style: dotted;
+}
+a:active{
+  border-style: inset;
 }
 /*
 body{
