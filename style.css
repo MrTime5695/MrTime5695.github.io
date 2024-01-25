@@ -1,20 +1,24 @@
-p{ 
-  color: blue; 
-  text-shadow: 2px 1px #000000;
-}
-
 h1{
-  color: blue
+  color: aquamarine;
   border-style: ridge;
-  background-color: rgb(100, 112, 219);
+  background-color: rgb(167, 112, 219);
   font-family: monospace;
   font-size:40px;
   border-radius: 15px;
   border-color: coral;
+  text-align: center;
 }
 
-a {
-  border-radius: 5px;
-  background-image: url("button.png");
-  
+p{
+  font-size: 18px;
+  color: purple;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+a:hover{
+  color: green;
+}
+/*
+body{
+  background-image: url(https://web.archive.org/web/20020630231212id_/http://bzpower.com//images/2usa.jpg);
+}
+*/
